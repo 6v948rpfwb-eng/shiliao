@@ -1,0 +1,13 @@
+{
+  "name": "shiliao",
+  "version": "0.1.0",
+  "description": "拾料 — 把网页和论文收进本地库，能搜、能读、能存成 Markdown",
+  "type": "module",
+  "bin": { "shiliao": "./cli/gather.js" },
+  "scripts": {
+    "start": "node serve.js",
+    "test": "node tests/run.js"
+  },
+  "keywords": ["research", "notes", "markdown", "bm25", "arxiv", "chinese"],
+  "license": "MIT"
+}

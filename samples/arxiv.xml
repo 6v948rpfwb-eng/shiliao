@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <entry>
+    <id>http://arxiv.org/abs/2505.24832v3</id>
+    <updated>2025-06-18T00:00:00Z</updated>
+    <published>2025-05-30T00:00:00Z</published>
+    <title>How much do language models memorize?</title>
+    <summary>We propose a new method to estimate the capacity of a model.
+    Our estimate is about 3.6 bits per parameter.</summary>
+    <author><name>John X. Morris</name></author>
+    <author><name>Chawin Sitawarin</name></author>
+    <category term="cs.CL"/>
+    <category term="cs.LG"/>
+  </entry>
+</feed>
